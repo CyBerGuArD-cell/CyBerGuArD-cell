@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @CyBerGuArD-cell
-- 👀 I’m interested in ...
-- 🌱 ഞാൻ നിലവിൽ പഠിക്കുന്നു ...
-- 💞️
-- 📫 How to reach me ...
+- 👋 Hi, I’m @CyBerGuArD-
+
+welcome this educational purposes only
+
+
+ ...
 
 <!---
 CyBerGuArD-cell/CyBerGuArD-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
